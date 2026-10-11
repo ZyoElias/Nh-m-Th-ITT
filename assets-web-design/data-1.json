@@ -1,0 +1,903 @@
+{
+  "seo": {
+    "title": "GREEN POINT — Gieo một điểm xanh, thêm ngàn sức sống",
+    "description": "Cùng Green Point gieo mầm xanh, lan tỏa lối sống xanh và góp phần xây dựng môi trường bền vững.",
+    "locale": "vi_VN",
+    "thumbnail": "assets-web-design/img/green/hero.jpg",
+    "favicon": "",
+    "themeColor": "#2E7D32"
+  },
+  "organization": {
+    "name": "Green Point Việt Nam",
+    "shortName": "Green Point",
+    "tagline": "Cây xanh giúp cuộc đời tươi mát và sạch đẹp.",
+    "logo": "assets-web-design/img/green/logo.jpg",
+    "foundedYear": 2016,
+    "industry": "Cây xanh và phát triển"
+  },
+  "theme": {
+    "note": "Nguồn duy nhất cho màu, font, bo góc. Đổi ở đây, mọi trang cùng đổi.",
+    "colors": {
+      "primary": "#2E7D32",
+      "onPrimary": "#FFFFFF",
+      "accent": "#A5D6A7",
+      "background": "#F5F6F8",
+      "surface": "#FFFFFF",
+      "text": "#0F1216",
+      "muted": "#647067",
+      "border": "#DCE5D9"
+    },
+    "darkColors": {
+      "primary": "#2D7030",
+      "onPrimary": "#0B0D10",
+      "accent": "#33672e",
+      "background": "#111411",
+      "surface": "#15181D",
+      "text": "#F1F3F6",
+      "muted": "#647067",
+      "border": "#DCE5D9"
+    },
+    "font": {
+      "heading": "'Barlow Condensed', sans-serif",
+      "body": "'Barlow', sans-serif",
+      "googleFonts": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@400;500;600&display=swap"
+    },
+    "radius": {
+      "sm": "4px",
+      "md": "8px",
+      "lg": "14px"
+    }
+  },
+  "nav": [
+    {
+      "label": "Trang chủ",
+      "href": "index.html"
+    },
+    {
+      "label": "Dự án",
+      "href": "features.html"
+    },
+    {
+      "label": "Tham gia",
+      "href": "products.html"
+    },
+    {
+      "label": "Câu chuyện",
+      "href": "about.html"
+    },
+    {
+      "label": "Liên hệ",
+      "href": "contact.html"
+    }
+  ],
+  "cta": {
+    "text": "Tham gia gieo mầm xanh",
+    "href": "contact.html",
+    "note": "Mọi đóng góp điều được ghi nhận và trân trọng"
+  },
+  "hero": {
+    "image": "assets-web-design/img/green/hero.jpg",
+    "variant": "full",
+    "eyebrow": "Hành trình phủ xanh đất nước",
+    "title": "Chung tay gieo mầm. Ươm mầm tương lai.",
+    "subtitle": "Mỗi cây xanh được trồng là một bước tiến hướng tới môi trường sống trong lành và bền vững cho thế hệ mai sau.",
+    "ctaSecondary": {
+      "text": "Khám phá các dự án",
+      "link": "products.html"
+    },
+    "stats": [
+      {
+        "label": "Tổng số cây xanh đã trồng",
+        "value": "50.000+"
+      },
+      {
+        "label": "Tổng số người tham gia",
+        "value": "12000+"
+      },
+      {
+        "label": "Tỷ lệ cây sống sót",
+        "value": "85%"
+      }
+    ]
+  },
+  "sections": {
+    "partners": {
+      "title": "Đồng hành cùng dự án"
+    },
+    "features": {
+      "title": "Chân trời xanh, xứ mệnh xanh",
+      "text": "Bạn còn địa điểm trồng, chúng tôi lo khâu ươm mầm và chăm sóc.",
+      "more": "Xem chi tiết quy trình"
+    },
+    "products": {
+      "title": "Lựa chọn hành trình phủ xanh",
+      "text": "Từ mầm cây cá nhân đến những cánh rừng doanh nghiệp rộng lớn.",
+      "more": "Xem tất cả dự án"
+    },
+    "process": {
+      "title": "4 bước gieo mầm xanh",
+      "text": "Bắt đầu từ một hạt giống, cùng nhau biến thành cánh rứng."
+    },
+    "testimonials": {
+      "title": "Góc nhìn từ cộng đồng"
+    },
+    "faq": {
+      "title": "Thắc mắc thường gặp trước khi tham gia"
+    },
+    "stats": {
+      "title": "Tác động qua những con số"
+    },
+    "mission": {
+      "title": "Vì sao Green Point ra đời"
+    },
+    "achievements": {
+      "title": "Cột mốc xanh"
+    },
+    "contact": {
+      "title": "Đăng ký trồng cây ngay",
+      "text": "Chọn dự án và số lượng cây, chuyên viên sẽ hỗ trợ trong vòng 2 giờ",
+      "submit": "Gửi yêu cầu",
+      "success": "Đã nhận thông tin. Chuyên viên sẽ liên hệ trong 2 giờ."
+    },
+    "ctaBand": {
+      "title": "Đồng hành cùng rừng xanh ngay hôm nay?",
+      "text": "Chiến dịch gieo mầm tháng này chỉ còn nhận thêm 50 cây trồng."
+    },
+    "related": {
+      "title": "Các dự án phủ xanh khác"
+    },
+    "advisor": {
+      "title": "Bạn yêu thích cây nào?",
+      "text": "Trả lời 3 câu, trợ lý AI gợi ý giống cây và quy trình trồng phù hợp."
+    },
+    "landingFaq": {
+      "title": "Giải đáp về dự án"
+    },
+    "landingCta": {
+      "title": "Mỗi cây xanh - một niềm hy vọng.",
+      "text": "Đã có hơn 1.000 người tham gia trong mùa gieo mầm này"
+    },
+    "reviews": {
+      "title": "Người đã tham gia dự án kể lại",
+      "text": "Đánh giá thực tế từ người tham gia dự án.",
+      "basedOn": "Dựa trên đánh giá từ cộng đồng",
+      "verified": "Đã tham gia gieo mầm",
+      "all": "Tất cả",
+      "empty": "Chưa có đánh giá cho dự án này.",
+      "about": "Về"
+    },
+    "pdpContent": {
+      "title": "Hành trình của một cây xanh",
+      "text": "Điều đặc biệt từ khâu gieo hạt đến khi cây trưởng thành."
+    },
+    "compare": {
+      "title": "So sánh các gói gieo mầm",
+      "text": "Chọn theo quy mô và mức độ tác động môi trường.",
+      "feature": "Tiêu chí"
+    },
+    "gallery": {
+      "title": "Khoảnh khắc gieo mầm",
+      "text": "Hình ảnh thực tế từ các chuyến trồng rừng."
+    },
+    "newsletter": {
+      "title": "Nhận tin tức sống xanh",
+      "text": "Cập nhật tiến độ phát triển của các cánh rừng và sự kiện gieo mầm mới nhất.",
+      "placeholder": "Email của bạn",
+      "submit": "Đăng ký",
+      "success": "Đã đăng ký. Cảm ơn bạn đã đồng hành.",
+      "note": "Chúng tôi gửi bản tin 2 tuần/lần."
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Green Point - Gieo mầm xanh, phủ tương lai"
+    },
+    "features": {
+      "title": "Trải nghiệm",
+      "image": "assets-web-design/img/green/features_page.jpg",
+      "heading": "Bạn chọn gieo mầm, chúng tôi chăm sóc.",
+      "text": "Mỗi cây xanh đều được gắn mã định vị GPS, phân bón hữu cơ và hỗ trợ chăm sóc định kỳ 2 năm."
+    },
+    "products": {
+      "title": "Dự án phủ xanh",
+      "heading": "Mõi cây trồng là một câu chuyện môi trường",
+      "text": "Lọc theo khu vực địa lý và quy mô dự án."
+    },
+    "product": {
+      "title": "Chi tiết dự án",
+      "back": "Tất cả dự án",
+      "category": "khu vực",
+      "price": "Chi phí/cây",
+      "specs": "Thông số tác động (lượng CO2 hấp thụ và diện tích phủ xanh)"
+    },
+    "about": {
+      "title": "Câu chuyện Green Point",
+      "image": "assets-web-design/img/green/about.jpg",
+      "heading": "Mười năm phủ xanh những khoảng đất trống",
+      "text": "Khởi đầu từ một nhóm tình nguyện viên nhỏ, đến nay chúng tôi đã phủ xanh hơn 100 hecta đồi trọc."
+    },
+    "contact": {
+      "title": "Liên hệ đồng hành",
+      "heading": "Bạn muốn góp xanh hay hợp tác doanh nghiệp?",
+      "text": "Điều phối viên trực 7:00 – 22:00, kể cả cuối tuần."
+    },
+    "landing": {
+      "title": "Dự án mới: Trồng cây vùng núi, ngăn chặn bão lũ"
+    }
+  },
+  "catalog": {
+    "all": "Tất cả",
+    "search": "Tìm dự án và khu vực địa lý",
+    "empty": "Chưa tìm thấy dự án, thử bỏ bớt bộ lộc xem sao nhé."
+  },
+  "features": [
+    {
+      "image": "assets-web-design/img/green/f1.jpg",
+      "icon": "users",
+      "title": "Nhóm tối đa 10 người/đợt",
+      "description": "Hướng dẫn chi tiết, đảm bảo mỗi mầm cây được gieo đúng kỹ thuật và an toàn."
+    },
+    {
+      "image": "assets-web-design/img/green/f2.jpg",
+      "icon": "tree",
+      "title": "Cung cấp dụng cụ và cây giống",
+      "description": "Bạn chỉ cần mang tinh thần xanh. Đất, phân bón và mầm cây đã có chúng tôi lo."
+    },
+    {
+      "image": "assets-web-design/img/green/f3.jpg",
+      "icon": "shield-check",
+      "title": "Bảo hành & giám sát 24/7",
+      "description": "Cây được gắn mã GPS, theo dõi sự phát triển và chăm sóc định kỳ trong 2 năm.."
+    },
+    {
+      "image": "assets-web-design/img/green/f4.jpg",
+      "icon": "map-pin",
+      "title": "Tọa đàm với người bản địa",
+      "description": "Hợp tác cùng người dân địa phương chăm sóc rừng, tìm hiểu về địa phương."
+    }
+  ],
+  "items": [
+    {
+      "image": "assets-web-design/img/green/i1.jpg",
+      "id": "rung-phu-xanh",
+      "name": "Trồng rừng đầu nguồn",
+      "category": "Dễ",
+      "tagline": "Dự án gieo mầm đầu tiên cho người mới bắt đầu.",
+      "price": "350.000đ",
+      "featured": true,
+      "description": "Khu vực đồi trọc cần phủ xanh nhanh, thích hợp trồng cây Keo, Cừ tràm và các loại cây thân gỗ nhỏ.",
+      "specs": [
+        {
+          "label": "Số lượng",
+          "value": "5 cây/gói"
+        },
+        {
+          "label": "Thời gian chăm sóc",
+          "value": "2 năm"
+        },
+        {
+          "label": "Diện tích phủ",
+          "value": "20m2"
+        },
+        {
+          "label": "Đợt gieo",
+          "value": "Thứ bảy hàng tuần"
+        }
+      ],
+      "tags": [
+        "easy",
+        "short",
+        "budget",
+        "first"
+      ]
+    },
+    {
+      "image": "assets-web-design/img/green/i2.jpg",
+      "id": "rung-nguyen-sinh",
+      "name": "Phục hồi rừng nguyên sinh",
+      "category": "Trung bình",
+      "tagline": "Tái tạo hệ sinh thái và bảo vệ nguồn nước tự nhiên.",
+      "price": "890.000đ",
+      "featured": true,
+      "description": "Trồng các loại cây gỗ lớn bản địa như Lim, Chò chỉ, Thến nhằm phục hồi hệ sinh thái tự nhiên.",
+      "specs": [
+        {
+          "label": "Số lượng",
+          "value": "5 cây/gói"
+        },
+        {
+          "label": "Thời gian chăm sóc",
+          "value": "5 năm"
+        },
+        {
+          "label": "Diên tích phủ",
+          "value": "50m2"
+        },
+        {
+          "label": "Đợt gieo",
+          "value": "Thứ bảy hàng tuần"
+        }
+      ],
+      "tags": [
+        "medium",
+        "cloud",
+        "photo"
+      ]
+    },
+    {
+      "image": "assets-web-design/img/green/i3.jpg",
+      "id": "rung-duoc-lieu",
+      "name": "Trồng rừng kết hợp cây dược liệu",
+      "category": "Trung bình",
+      "tagline": "Rừng nuôi dưỡng thuốc quý, dược liệu bảo vệ sức khỏe.",
+      "price": "999.000đ",
+      "featured": true,
+      "description": "Tận dụng hệ sinh thái rừng trồng các loại cây thuốc, thảo dược giúp người dân có thêm thu nhập.",
+      "specs": [
+        {
+          "label": "Số lượng",
+          "value": "10 cây/gói"
+        },
+        {
+          "label": "Thời gian",
+          "value": "3 năm"
+        },
+        {
+          "label": "Diên tích phủ",
+          "value": "20m2"
+        },
+        {
+          "label": "Đợt gieo",
+          "value": "Thứ Bảy cách tuần"
+        }
+      ],
+      "tags": [
+        "medium",
+        "cloud",
+        "forest"
+      ]
+    },
+    {
+      "image": "assets-web-design/img/green/i4.jpg",
+      "id": "rung-khi-hau",
+      "name": "Rừng khí hậu Việt Nam",
+      "category": "Khó",
+      "tagline": "Rừng bảo vệ người khỏi bão lũ.",
+      "price": "2.000.000đ",
+      "featured": true,
+      "description": "Trồng lại rừng ở các khu vực bị suy thoái và dễ bị tổn thương. Dự án góp phần vào việc hấp thụ carbon, thúc đẩy sự ổn định sinh thái và bảo tồn đa dạng sinh học",
+      "specs": [
+        {
+          "label": "Số lượng",
+          "value": "5 cây/gói"
+        },
+        {
+          "label": "Thời gian",
+          "value": "5 năm"
+        },
+        {
+          "label": "Diên tích phủ",
+          "value": "50m2"
+        },
+        {
+          "label": "Đợt gieo",
+          "value": "Thứ bảy hàng tuần"
+        }
+      ],
+      "tags": [
+        "hard",
+        "long",
+        "stars",
+        "photo"
+      ]
+    },
+    {
+      "image": "assets-web-design/img/green/i5.jpg",
+      "id": "Du-lich-sinh-thai",
+      "name": "Du lịch sinh thái dưới tán rừng",
+      "category": "Khó",
+      "tagline": "Kết hợp giữa bảo vệ rừng và du lịch sinh thái.",
+      "price": "2.499.000đ",
+      "featured": false,
+      "description": "Chuyến đi du lịch chữa lành, hít thở bầu không khí thiên nhiên đồng thời giúp cộng đồng địa phương có thêm sinh kế từ dịch vụ thay vì khai thác tài nguyên rừng",
+      "specs": [
+        {
+          "label": "Số lượng",
+          "value": "10 người"
+        },
+        {
+          "label": "Thời gian",
+          "value": "2 ngày 1 đêm"
+        },
+        {
+          "label": "Khởi hành",
+          "value": "Chủ nhật hàng tuần"
+        }
+      ],
+      "tags": [
+        "hard",
+        "short",
+        "iconic"
+      ]
+    },
+    {
+      "image": "assets-web-design/img/green/i6.jpg",
+      "id": "chien-dich-xanh-thang-11",
+      "name": "Chiến dịch Phủ Xanh Đồi Trọc Tây Nguyên",
+      "category": "Khó",
+      "tagline": "Biến đồi trọc thành rừng xanh – Thắp lửa cho Tây Nguyên.",
+      "price": "2.000.000đ",
+      "featured": true,
+      "description": "Chung tay gieo 5.000 mầm xanh, phủ rộng 10 hecta đất rừng bị suy thoái.",
+      "specs": [
+        {
+          "label": "Số lượng",
+          "value": "5000"
+        },
+        {
+          "label": "Thời gian chăm sóc",
+          "value": "5 năm"
+        },
+        {
+          "label": "Diện tích phủ",
+          "value": "20.000m2"
+        },
+        {
+          "label": "Đợt gieo",
+          "value": "15/11/2026"
+        }
+      ],
+      "tags": [
+        "hard",
+        "long",
+        "iconic"
+      ]
+    }
+  ],
+  "process": [
+    {
+      "title": "Chọn dự án gieo mầm",
+      "description": "Theo nhu cầu cá nhân, ngân sách hoặc khu vực bạn muốn phủ xanh."
+    },
+    {
+      "title": "Cọc 20% giữ mầm cây",
+      "description": "Bồi đợt gieo mầm miễn phí trước 7 ngày."
+    },
+    {
+      "title": "Tập huấn gieo mầm online",
+      "description": "Hướng dẫn kỹ thuật gieo hạt, trồng cây và chuẩn bị đồ dùng cần thiết."
+    },
+    {
+      "title": "Lên đường phủ xanh",
+      "description": "Xe đón tại các điểm trung tâm, đưa bạn đến khu vực trồng rừng."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Lần đầu tự tay gieo mầm một cây gỗ lớn, cảm giác đóng góp điều ý nghĩa cho thiên nhiên thật tuyệt vời.",
+      "name": "Vương Hạo Nhiên",
+      "role": "Thành viên dự án rừng đầu nguồn"
+    },
+    {
+      "quote": "Không khí buổi gieo mầm rất năng lượng. Vừa được trải nghiệm thiên nhiên, vừa kết nối thêm nhiều bạn cùng lý tưởng.",
+      "name": "Nguyễn Hoàng Thiên Ân",
+      "role": "Thành viên chiến dịch Phủ Xanh Đồi Trọc"
+    },
+    {
+      "quote": "Tổ chức chuyên nghiệp, quy trình theo dõi cây sau khi trồng minh bạch khiến mình vô cùng yên tâm.",
+      "name": "Chị Liễu Như Yên",
+      "role": "Đồng hành cùng Green Point"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Chưa từng trồng cây có tham gia được không?",
+      "a": "Hoàn toàn được! Đội ngũ hướng dẫn viên sẽ hướng dẫn bạn tỉ mỉ từng bước từ đào đất, bón phân đến trồng cây."
+    },
+    {
+      "q": "Chi phí gieo mầm đã bao gồm những gì?",
+      "a": "Bao gồm cây giống, dụng cụ trồng, xe đưa đón, hướng dẫn viên, bữa ăn nhẹ và bảo hiểm sự kiện."
+    },
+    {
+      "q": "Thời tiết xấu thì sao?",
+      "a": "Nếu có mưa lớn hoặc thiên tai, đợt gieo mầm sẽ được dời lịch và hỗ trợ bảo lưu 100% chi phí."
+    },
+    {
+      "q": "Cần chuẩn bị những gì?",
+      "a": "Bạn nên mặc quần áo thoải mái, mang giày thể thao hoặc giày đi bộ, mũ che nắng và bình nước cá nhân.."
+    }
+  ],
+  "partners": [
+    {
+      "name": "Mạng lưới Cây Xanh Việt Nam."
+    },
+    {
+      "name": "Qũy phát triển rừng bền vững."
+    },
+    {
+      "name": "Đội Cứu hộ Thiên nhiên"
+    },
+    {
+      "name": "Câu lạc bộ sống xanh"
+    },
+    {
+      "name": "Tạp chí Môi trường"
+    },
+    {
+      "name": "Vườn ươm Bản mây"
+    }
+  ],
+  "mission": {
+    "description": "Chúng tôi mong muốn mỗi cá nhân đều gieo ít nhất một mầm xanh, góp phần phủ xanh đồi trọc và tạo nguồn sinh kế bền vững cho người dân địa phương.",
+    "vision": "Mỗi chiến dịch gieo mầm đều tạo tác động môi trường thực sự và lâu dài.",
+    "values": [
+      {
+        "title": "An toàn & Bền vững",
+        "description": "Ưu tiên chọn các giống cây bản địa có sức sống cao và phù hợp với thổ nhưỡng."
+      },
+      {
+        "title": "Không để lại rác",
+        "description": "Giữ gìn vệ sinh khu vực trồng, sử dụng túi ươm tự phân hủy sinh học."
+      },
+      {
+        "title": "Đồng hành cùng cộng đồng",
+        "description": "Trích 30% chi phí dự án hỗ trợ người dân địa phương chăm sóc và bảo vệ rừng. Đồng thời cũng hộ đồng bào khi đến mùa bão lũ"
+      }
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Dự án gieo mầm đạt chuẩn",
+      "value": "2025",
+      "description": "Chứng nhận từ Mạng lưới Sống Xanh."
+    },
+    {
+      "title": "Số cây xanh đã trồng",
+      "value": "50.000+",
+      "description": "Tính từ năm 2018."
+    },
+    {
+      "title": "Thành viên quay lại",
+      "value": "63%",
+      "description": "Tiếp tục đồng hành ở chiến dịch tiếp theo."
+    }
+  ],
+  "contact": {
+    "address": "30/4 Thạch Phước, Tây Ninh, Việt Nam",
+    "email": "Greenpoint@gmail.com",
+    "phone": "0912 345 678",
+    "workingHours": "7:00 - 22:00 mỗi ngày",
+    "socials": {
+      "facebook": "#",
+      "instagram": "#",
+      "youtube": "#"
+    }
+  },
+  "assistant": {
+    "keyLabel": "Khóa API Claude (tuỳ chọn)",
+    "keyHelp": "Có khóa: gợi ý do Claude viết. Không có: dùng bộ lọc theo tiêu chí. Khóa chỉ lưu trong trình duyệt này.",
+    "submit": "Xem gợi ý",
+    "loading": "Đang chọn sản phẩm hợp với bạn…",
+    "apply": "Điền sẵn vào form liên hệ",
+    "again": "Chọn lại",
+    "needAll": "Chọn một đáp án cho mỗi câu để nhận gợi ý.",
+    "aiBadge": "Gợi ý bởi Claude",
+    "ruleBadge": "Gợi ý theo tiêu chí",
+    "error": "Không gọi được Claude, đã chuyển sang gợi ý theo tiêu chí.",
+    "alsoLabel": "Cũng hợp với bạn",
+    "notePlaceholder": "Muốn nói thêm điều gì? (không bắt buộc)",
+    "title": "Trợ lý chọn cung đường",
+    "text": "Ba câu, trợ lý AI chọn cung đường vừa sức và giữ chỗ giúp bạn.",
+    "questions": [
+      {
+        "id": "level",
+        "label": "Kinh nghiệm leo núi của bạn",
+        "options": [
+          {
+            "label": "Chưa từng leo",
+            "tags": [
+              "easy",
+              "first"
+            ]
+          },
+          {
+            "label": "Đã leo 1–2 lần",
+            "tags": [
+              "medium"
+            ]
+          },
+          {
+            "label": "Leo thường xuyên",
+            "tags": [
+              "hard",
+              "expert"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "days",
+        "label": "Bạn có bao nhiêu ngày?",
+        "options": [
+          {
+            "label": "Một cuối tuần",
+            "tags": [
+              "short"
+            ]
+          },
+          {
+            "label": "3 ngày trở lên",
+            "tags": [
+              "long"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "want",
+        "label": "Bạn muốn thấy điều gì nhất?",
+        "options": [
+          {
+            "label": "Biển mây",
+            "tags": [
+              "cloud"
+            ]
+          },
+          {
+            "label": "Bầu trời sao",
+            "tags": [
+              "stars"
+            ]
+          },
+          {
+            "label": "Rừng nguyên sinh",
+            "tags": [
+              "forest"
+            ]
+          },
+          {
+            "label": "Ảnh check-in để đời",
+            "tags": [
+              "photo",
+              "iconic"
+            ]
+          }
+        ]
+      }
+    ],
+    "template": "Tôi muốn giữ chỗ tour {item}. Thông tin của tôi: {answers}. Nhờ tư vấn ngày khởi hành gần nhất."
+  },
+  "landing": {
+    "kind": "Chiến dịch nổi bật",
+    "itemId": "chien-dich-xanh-thang-11",
+    "image": "assets-web-design/img/green/i6.jpg",
+    "badge": "Khởi chạy 15/11/2026",
+    "title": "Chiến dịch Phủ Xanh Đồi Trọc Tây Nguyên.",
+    "subtitle": "Chung tay gieo 5.000 mầm xanh, phủ rộng 10 hecta đất rừng bị suy thoái.",
+    "deadline": "2026-11-15T05:00:00+07:00",
+    "countdown": {
+      "label": "Đoàn gieo mầm bắt đầu sau",
+      "ended": "Đã đủ số lượng cây đăng ký cho đợt này."
+    },
+    "secondary": "Xem chi tiết dự án",
+    "teaser": {
+      "eyebrow": "Dự án đặc biệt",
+      "title": "Phủ xanh 10ha rừng phòng hộ",
+      "text": "Mỗi cây xanh bạn góp sẽ được theo dõi trực tiếp qua định vị vệ tinh GPS",
+      "button": "Đăng ký gieo mầm"
+    },
+    "highlights": [
+      {
+        "icon": "sparkles",
+        "title": "Định vị cây trồng GPS",
+        "text": "Nhận báo cáo hình ảnh và tọa độ cây phát triển hằng tháng.."
+      },
+      {
+        "icon": "camera",
+        "title": "Hình ảnh thực tế",
+        "text": "Đội ngũ chuyên viên cập nhật nhật ký tăng trưởng định kỳ."
+      },
+      {
+        "icon": "tree",
+        "title": "Ba lớp bảo vệ",
+        "text": "Chăm sóc và bảo vệ cây trồng an toàn trong suốt 2 năm đầu."
+      },
+      {
+        "icon": "users",
+        "title": "Đồng hành địa phương.",
+        "text": "Tạo việc làm và thu nhập ổn định cho người dân giữ rừng."
+      }
+    ],
+    "story": {
+      "title": "Vì sao Green Point chọn phủ xanh Tây Nguyên?",
+      "text": "Tây Nguyên từng là lá phổi xanh lớn nhất, nơi lưu giữ hệ sinh thái phong phú. Tuy nhiên, hàng nghìn hecta đồi trọc đang bị đe dọa bởi biến đổi khí hậu. Cùng Green Point tái tạo lại màu xanh nguyên bản.",
+      "image": "assets-web-design/img/green/f2.jpg",
+      "points": [
+        "Thổ nhưỡng phù hợp cho các giống cây bản địa lớn nhanh.",
+        "Tạo sinh kế bền vững cho bà con dân tộc thiểu số tại địa phương.",
+        "Có xe hỗ trợ vận chuyển và dụng cụ đầy đủ cho tình nguyện viên."
+      ]
+    },
+    "agenda": {
+      "title": "Lịch trình gieo mầm 3 ngày 2 đêm",
+      "text": "Di chuyển, trải nghiệm trồng rừng và hòa mình vào thiên nhiên.",
+      "steps": [
+        {
+          "time": "Ngày 1",
+          "title": "Thành Phố Hồ Chí Minh -> Tây Nguyên",
+          "text": "Xe giường nằm đưa đón, nhận phòng nghỉ ngơi và sinh hoạt chuẩn bị."
+        },
+        {
+          "time": "Ngày 2",
+          "title": "Lên khu vực trồng ➔ Trồng 500 cây đầu tiên",
+          "text": "Đào hố, gieo mầm, gắn thẻ GPS cho cây và giao lưu cùng người dân bản địa."
+        },
+        {
+          "time": "Ngày 3",
+          "title": "Tổng kết chiến dịch ➔ Trở về",
+          "text": "Trao chứng nhận đóng góp xanh, mua nông sản ủng hộ địa phương và lên xe về lại."
+        }
+      ]
+    },
+    "offer": {
+      "title": "Chọn gói gieo mầm",
+      "text": "Giá trọn gói bao gồm: Cây giống, phân bón, dụng cụ, xe đưa đón, ăn uống và bảo hiểm.",
+      "featuredLabel": "Phù hợp nhất cho nhóm bạn",
+      "message": "Tôi muốn giữ chỗ {plan} cho {campaign}.",
+      "plans": [
+        {
+          "name": "Mầm xanh cá nhân",
+          "price": "450.000đ",
+          "was": "",
+          "note": "/người",
+          "perks": [
+            "Trồng 5 mầm cây",
+            "Mã định vị GPS cá nhân",
+            "Giấy chứng nhận xanh"
+          ],
+          "button": "Giữ 1 chỗ"
+        },
+        {
+          "name": "Nhóm đồng hành ̣̣̣̣(4 người)",
+          "price": "1.600.000đ",
+          "was": "1.800.000đ",
+          "note": "/người, tiết kiệm 200.000đ",
+          "perks": [
+            "Trồng 20 mầm cây",
+            "Mã định vị GPS cho nhóm",
+            "Áo phông chiến dịch Green Point",
+            "Bảo lưu miễn phí trước 7 ngày"
+          ],
+          "featured": true,
+          "button": "Giữ chỗ cho nhóm"
+        },
+        {
+          "name": "Tài trợ Doanh Nghiệp",
+          "price": "29.900.000đ",
+          "was": "",
+          "note": "/đoàn tối đa 20 người",
+          "perks": [
+            "Phủ xanh 100 mầm cây",
+            "Bảng tên logo doanh nghiệp tại khu rừng",
+            "Truyền thông nhận diện thương hiệu xanh",
+            "Chuyên viên & Nhiếp ảnh gia riêng"
+          ],
+          "button": "Đặt gói Doanh Nghiệp"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Tôi chưa trồng cây bao giờ liệu có tham gia được không?",
+        "a": "Hoàn toàn được! Đội ngũ Green Point và bà con địa phương sẽ hướng dẫn bạn từng bước từ đào đất, trộn phân bón đến đặt mầm cây đúng kỹ thuật"
+      },
+      {
+        "q": "Nếu thời tiết xấu hoặc mưa lớn thì sao?",
+        "a": "Nếu dự báo có bão hoặc mưa lớn kéo dài, đợt gieo mầm sẽ được dời lịch và bạn được bảo lưu 100% chi phí hoặc hoàn tiền theo chính sách."
+      },
+      {
+        "q": "Làm thế nào để biết cây sau khi trồng có phát triển tốt hay không?",
+        "a": "Sau khi gieo mầm, mỗi cây/lô cây đều được gắn mã định vị GPS. Đội ngũ Green Point sẽ cập nhật hình ảnh, chiều cao và chỉ số sức khỏe của cây lên hệ thống/email của bạn theo định kỳ."
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "itemId": "rung-phu-xanh",
+      "name": "Nguyễn Hải Yến",
+      "rating": 5,
+      "date": "2026-03-12",
+      "title": "Cảm giác tự tay gieo mầm rất tuyệt vời",
+      "text": "Đội ngũ hướng dẫn nhiệt tình, nhận được tọa độ GPS và hình ảnh cây của mình phát triển hằng tháng khiến mình rất an tâm.",
+      "verified": true
+    },
+    {
+      "itemId": "rung-nguyen-sinh",
+      "name": "Trần Quang Minh",
+      "rating": 5,
+      "date": "2026-02-26",
+      "title": "Cảnh quan đồi rừng rất đẹp",
+      "text": "Công tác tổ chức chu đáo, đồ ăn ngon và mọi người trong đoàn hỗ trợ nhau rất nhiệt tình.",
+      "verified": true
+    },
+    {
+      "itemId": "rung-duoc-lieu",
+      "name": "Lê Thảo Vy",
+      "rating": 4,
+      "date": "2026-02-10",
+      "title": "Thiên nhiên là một điều quý giá trong cuộc sống",
+      "text": "Khi tham gia dự án tôi không chỉ được tận tay trồng những mầm non, mà tôi còn được người dân địa phương hướng dẫn, nhận biết và biết tác dụng của các loại cây dược liệu. Vừa học thêm kiến thức mới, vừa chữa lành tâm hồn, trải nghiệm thật tuyền vời",
+      "verified": true
+    },
+    {
+      "itemId": "rung-khi-hau",
+      "name": "Phạm Đăng Khoa",
+      "rating": 5,
+      "date": "2026-01-18",
+      "title": "Trải nghiệm đáng nhớ nhất của tôi.",
+      "text": "Đây là trải nghiệm rất tuyệt vời mà tôi từng đi. Nhìn những mầm giống mà tôi gieo sau này sẽ trở thành những cây lớn và giúp cải thiện hệ sinh thái thật ý nghĩa",
+      "verified": true
+    },
+    {
+      "itemId": "Du-lich-sinh-thai",
+      "name": "Đinh Thu Trang",
+      "rating": 5,
+      "date": "2025-12-20",
+      "title": "Chuyến đi đầy ý nghĩa cho cả gia đình",
+      "text": "Không khí tuyệt vời, các bé nhà mình học hỏi được rất nhiều về tình yêu thiên nhiên và ý thức bảo vệ môi trường.",
+      "verified": true
+    }
+  ],
+  "pdp": {
+    "services": [
+      {
+        "icon": "users",
+        "title": "Tối đa 10 người/nhóm",
+        "text": "Mỗi đoàn có 2 chuyên viên kỹ thuật đồng hành"
+      },
+      {
+        "icon": "shield-check",
+        "title": "Bảo hiểm mầm xanh",
+        "text": "Cam kết trồng lại cây mới nếu cây bị ảnh hưởng thiên tai trong 12 tháng đầu"
+      },
+      {
+        "icon": "calendar-check",
+        "title": "Đổi lịch miễn phí",
+        "text": "Hỗ trợ đổi đợt gieo mầm trước 7 ngày"
+      },
+      {
+        "icon": "tree",
+        "title": "Trọn gói vật tư",
+        "text": "Bao gồm cây giống, đất mùn, phân bón và dụng cụ"
+      }
+    ],
+    "blocks": [
+      {
+        "image": "assets-web-design/img/green/f1.jpg",
+        "title": "Gieo mầm tự nhiên",
+        "text": "Lựa chọn các giống cây bản địa phù hợp với thổ nhưỡng từng khu vực."
+      },
+      {
+        "image": "assets-web-design/img/green/f2.jpg",
+        "title": "Trạm giám sát GPS",
+        "text": "Chuyên viên cập nhật nhật ký tăng trưởng và vị trí cây theo thời gian thực."
+      },
+      {
+        "image": "assets-web-design/img/green/f4.jpg",
+        "title": "Đồng hành cùng người dân",
+        "text": "Bà con địa phương trực tiếp chăm sóc, bảo vệ và tưới nước định kỳ."
+      }
+    ],
+    "shipping": [
+      "Cọc 20% để giữ mầm cây, thanh toán phần còn lại trước 3 ngày.",
+      "Đổi lịch miễn phí trước 7 ngày. Huỷ do thời tiết xấu được hoàn 100%.",
+      "Nhận chứng nhận gieo mầm qua email ngay sau khi hoàn thành."
+    ],
+    "tabs": {
+      "description": "Giới thiệu dự án",
+      "specs": "Thông số tác động",
+      "shipping": "Chính sách và cam kết"
+    },
+    "buyLabel": "Đăng ký gieo mầm"
+  }
+}
